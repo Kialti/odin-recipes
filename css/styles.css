@@ -1,5 +1,14 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
 .header {
     color: blue;
     font-size: 64px;
     text-align: center;
+}
+
+ul {
+    font-size: 32px;
+    background-color: red;
 }
